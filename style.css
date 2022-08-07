@@ -1,0 +1,16 @@
+.info,
+.contentApi{
+    background: rgb(15,23,42);
+    background: linear-gradient(90deg, rgba(15,23,42,0.9223039557619923) 48%, rgba(19,17,234,1) 100%);
+}
+.name,
+.contentTitle{
+    color: #3c88fe;
+}
+.userName,
+.contactMe{
+    color: white;
+}
+.contentContact{
+    background-image: url("https://cdn.pixabay.com/photo/2019/05/28/10/25/intelligence-4234824_960_720.jpg");
+ }
